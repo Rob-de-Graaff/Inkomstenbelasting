@@ -1,0 +1,10 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\bin\Debug\Inkomstenbelasting.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\bin\Debug\Inkomstenbelasting.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\bin\Debug\Inkomstenbelasting.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 23 Schijventarief Inkomstenbelasting\Inkomstenbelasting\Inkomstenbelasting\obj\Debug\Inkomstenbelasting.pdb
