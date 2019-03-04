@@ -67,7 +67,7 @@ namespace Inkomstenbelasting
             // Checks if input is valid
             if (double.TryParse(textBoxIncome.Text, out double resultIncome) && resultIncome > 0)
             {
-                // Checks if income is smaller then tariffgroup
+                // Checks if income is greater then tariffgroup
                 if (resultIncome > tempTariffgroup.TaxFreeSum)
                 {
                     // Checks if income * extra = value if so sets value 
@@ -127,7 +127,7 @@ namespace Inkomstenbelasting
                         }
                     }
 
-                    if (taxableSum < 8000 || level1)
+                    if (taxableSum <= 8000 || level1)
                     {
                         percentage = 0.3575;
                         
